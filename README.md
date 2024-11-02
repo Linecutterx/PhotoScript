@@ -1,5 +1,7 @@
 # PhotoScript
-Bash scripting for use of dcraw &amp; Imagemagick in termux - for processing RAW photos
+Bash scripting for use of dcraw &amp; Imagemagick in termux - for processing RAW photos.
+
+N.B. options/preferences are passed to the photo.sh script via the filename, using softlinks!
 
 This is really just a place to keep the relevant files & for pull requests by anyone who wants to propose a development in the script or a setting that's used by it.
 
